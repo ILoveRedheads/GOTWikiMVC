@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PetProjects\\GOTWikiMVC\\GoTWiki\\GoT WIki.csproj": {}
+    "E:\\PetProjects\\GOTWikiMVC\\GoT WIki.csproj": {}
   },
   "projects": {
-    "E:\\PetProjects\\GOTWikiMVC\\GoTWiki\\GoT WIki.csproj": {
+    "E:\\PetProjects\\GOTWikiMVC\\GoT WIki.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PetProjects\\GOTWikiMVC\\GoTWiki\\GoT WIki.csproj",
+        "projectUniqueName": "E:\\PetProjects\\GOTWikiMVC\\GoT WIki.csproj",
         "projectName": "GoT WIki",
-        "projectPath": "E:\\PetProjects\\GOTWikiMVC\\GoTWiki\\GoT WIki.csproj",
+        "projectPath": "E:\\PetProjects\\GOTWikiMVC\\GoT WIki.csproj",
         "packagesPath": "C:\\Users\\heybu\\.nuget\\packages\\",
-        "outputPath": "E:\\PetProjects\\GOTWikiMVC\\GoTWiki\\obj\\",
+        "outputPath": "E:\\PetProjects\\GOTWikiMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
